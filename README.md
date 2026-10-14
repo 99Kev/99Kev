@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I am a Software developer Student C# .net. 🐸
 
 <!--
 **99Kev/99Kev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
